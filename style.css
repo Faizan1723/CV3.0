@@ -1,0 +1,26 @@
+    body
+        {
+            background-color: cornsilk;
+        }
+
+    hr
+    {
+        border: none;
+        border-top: 10px dotted wheat;
+        background-color: cornsilk;
+        height: .4px;
+        width: 5%;
+    }
+    h1
+    {
+        color: #66BFBF;
+    }
+    h2
+    {
+        color:deeppink;
+        
+    }
+    h3
+    {
+        color: #66BFBF;
+    }
